@@ -1,6 +1,6 @@
 ### Hello World! 🧰
 
-In this repository you will find a whole ETL pipeline developed using python and modules like requests, zipfile, urllib, csv sqlalchemy.orm and more.
+In this repository you will find a whole ETL pipeline development process using python and modules like requests, zipfile, urllib, csv sqlalchemy.orm and more.
 
 
 #### The Pipeline: 🔧
