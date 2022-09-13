@@ -3,7 +3,7 @@
 In this repository you will find a whole ETL pipeline developed using python and modules like requests, zipfile, urllib, csv sqlalchemy.orm and more.
 
 
-#### The Pipeline:
+#### The Pipeline: 🔧
 
 
 ![Pipeline](http://drive.google.com/uc?export=view&id=1Uf_u5iYLVTWrCKGld3T5M_DTpa41tQnX)
