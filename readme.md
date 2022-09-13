@@ -18,3 +18,4 @@ In this repository you will find a whole ETL pipeline developed using python and
 
 4) Finally extracting meaningful insights from the clean data to communicate to stakeholders.
 
+>"The scripts are located in the script's directory"
